@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Quentinien
+
+💻 Computer Science Student
+🌍 Aspiring Software Engineer
+📚 Currently learning Java, Data Structures & Algorithms
+🚀 Passionate about building projects and improving every day.
+
+## 🌱 Currently Learning
+
+* ☕ Java
+* 📊 Data Structures & Algorithms
+* 🌐 Web Development
+* 🛠 Git & GitHub
+
+## 🎯 Goals
+
+* Build strong problem-solving skills.
+* Create real-world projects.
+* Contribute to open-source.
+* Land a software engineering job abroad.
+
+## 🛠 Tech Stack
+
+* **Languages:** Java, HTML, CSS
+* **Tools:** Git, GitHub, VS Code
+* **Currently Exploring:** JavaScript, SQL
 
 
-**Q407561/Q407561** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> *"Small improvements every day become extraordinary results."* 🚀
