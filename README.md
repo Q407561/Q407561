@@ -1,5 +1,4 @@
-# 👋 Hi, I'm Quentinien
-
+# 👋 Hi, I'm Que
 💻 Computer Science Student
 🌍 Aspiring Software Engineer
 📚 Currently learning Java, Data Structures & Algorithms
